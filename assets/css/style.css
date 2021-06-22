@@ -1,0 +1,24 @@
+.button{
+    width: 50px;
+    height: 50px;
+    font-size:25px;
+    margin: 0.5px;
+    cursor: pointer;
+}
+
+.calculator{
+    padding: 0.8rem;
+    width: 15rem;
+    background-color: grey;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.equal{
+    width: 6.45rem;
+}
+
+input {
+    background-color: white;
+    width: 210px;
+}
